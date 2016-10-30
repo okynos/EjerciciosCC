@@ -1,4 +1,4 @@
-# Ejercicio 1 - José Luis Fernández Aguilera
+# Ejercicio 1 - José Luis Fernández Aguilera - Cloud Computing
 ## Enunciado
 ### Buscar una aplicación de ejemplo, preferiblemente propia, y deducir qué patrón es el que usa. ¿Qué habría que hacer para evolucionar a un patrón tipo microservicios?
 Para este ejercicio vamos a analizar una aplicación Android realizada para la asignatura de desarrollo de software esta aplicación consistía en una aplicación tipo juego en la cual se realizaban preguntas y al usuario se le presentaban cuatro posibles respuestas, una de ellas era la acertada.
